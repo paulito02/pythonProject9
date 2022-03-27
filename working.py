@@ -7,17 +7,12 @@ if num > 9999:
 
 print (end="[")
 
-digit = num//1000
-print(digit, end="")
-num %= 1000
-
-digit = num//100
-print(digit, end="")
-num %=100
-
-digit=num//10
-print(digit, end="")
-num %=10
-
-print(num, end="")
-print("]")
+    if len(pin)==4:
+        pass
+    else:
+        len(pin) != 4
+        print("your input has to be 4 digit")
+        if len(input()) == 4:
+           break
+print("you are welcome")
+input("email :")
