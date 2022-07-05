@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="python " type="CompoundRunConfigurationType">
+    <toRun name="GUI" type="PythonConfigurationType" />
+    <toRun name="main.py" type="PythonConfigurationType" />
+    <toRun name="practice.py" type="PythonConfigurationType" />
+    <toRun name="time calculator.py" type="PythonConfigurationType" />
+    <toRun name="working.py" type="PythonConfigurationType" />
+    <method v="2" />
+  </configuration>
+</component>
